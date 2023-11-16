@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Code Academy\coding\coding HomeWorks\Coffee Shop Solution\Coffee Shop\bin\Debug\net6.0\Coffee Shop.exe
+C:\Users\HP\Desktop\Code Academy\coding\coding HomeWorks\Coffee Shop Solution\Coffee Shop\bin\Debug\net6.0\Coffee Shop.deps.json
+C:\Users\HP\Desktop\Code Academy\coding\coding HomeWorks\Coffee Shop Solution\Coffee Shop\bin\Debug\net6.0\Coffee Shop.runtimeconfig.json
+C:\Users\HP\Desktop\Code Academy\coding\coding HomeWorks\Coffee Shop Solution\Coffee Shop\bin\Debug\net6.0\Coffee Shop.dll
+C:\Users\HP\Desktop\Code Academy\coding\coding HomeWorks\Coffee Shop Solution\Coffee Shop\bin\Debug\net6.0\Coffee Shop.pdb
+C:\Users\HP\Desktop\Code Academy\coding\coding HomeWorks\Coffee Shop Solution\Coffee Shop\obj\Debug\net6.0\Coffee Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Code Academy\coding\coding HomeWorks\Coffee Shop Solution\Coffee Shop\obj\Debug\net6.0\Coffee Shop.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Code Academy\coding\coding HomeWorks\Coffee Shop Solution\Coffee Shop\obj\Debug\net6.0\Coffee Shop.AssemblyInfo.cs
+C:\Users\HP\Desktop\Code Academy\coding\coding HomeWorks\Coffee Shop Solution\Coffee Shop\obj\Debug\net6.0\Coffee Shop.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Code Academy\coding\coding HomeWorks\Coffee Shop Solution\Coffee Shop\obj\Debug\net6.0\Coffee Shop.dll
+C:\Users\HP\Desktop\Code Academy\coding\coding HomeWorks\Coffee Shop Solution\Coffee Shop\obj\Debug\net6.0\refint\Coffee Shop.dll
+C:\Users\HP\Desktop\Code Academy\coding\coding HomeWorks\Coffee Shop Solution\Coffee Shop\obj\Debug\net6.0\Coffee Shop.pdb
+C:\Users\HP\Desktop\Code Academy\coding\coding HomeWorks\Coffee Shop Solution\Coffee Shop\obj\Debug\net6.0\Coffee Shop.genruntimeconfig.cache
+C:\Users\HP\Desktop\Code Academy\coding\coding HomeWorks\Coffee Shop Solution\Coffee Shop\obj\Debug\net6.0\ref\Coffee Shop.dll

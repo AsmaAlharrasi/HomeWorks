@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Code Academy\coding\coding HomeWorks\HW2\HM 2 solution\HM 2\bin\Debug\net6.0\HM 2.exe
+C:\Users\HP\Desktop\Code Academy\coding\coding HomeWorks\HW2\HM 2 solution\HM 2\bin\Debug\net6.0\HM 2.deps.json
+C:\Users\HP\Desktop\Code Academy\coding\coding HomeWorks\HW2\HM 2 solution\HM 2\bin\Debug\net6.0\HM 2.runtimeconfig.json
+C:\Users\HP\Desktop\Code Academy\coding\coding HomeWorks\HW2\HM 2 solution\HM 2\bin\Debug\net6.0\HM 2.dll
+C:\Users\HP\Desktop\Code Academy\coding\coding HomeWorks\HW2\HM 2 solution\HM 2\bin\Debug\net6.0\HM 2.pdb
+C:\Users\HP\Desktop\Code Academy\coding\coding HomeWorks\HW2\HM 2 solution\HM 2\obj\Debug\net6.0\HM 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Code Academy\coding\coding HomeWorks\HW2\HM 2 solution\HM 2\obj\Debug\net6.0\HM 2.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Code Academy\coding\coding HomeWorks\HW2\HM 2 solution\HM 2\obj\Debug\net6.0\HM 2.AssemblyInfo.cs
+C:\Users\HP\Desktop\Code Academy\coding\coding HomeWorks\HW2\HM 2 solution\HM 2\obj\Debug\net6.0\HM 2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Code Academy\coding\coding HomeWorks\HW2\HM 2 solution\HM 2\obj\Debug\net6.0\HM 2.dll
+C:\Users\HP\Desktop\Code Academy\coding\coding HomeWorks\HW2\HM 2 solution\HM 2\obj\Debug\net6.0\refint\HM 2.dll
+C:\Users\HP\Desktop\Code Academy\coding\coding HomeWorks\HW2\HM 2 solution\HM 2\obj\Debug\net6.0\HM 2.pdb
+C:\Users\HP\Desktop\Code Academy\coding\coding HomeWorks\HW2\HM 2 solution\HM 2\obj\Debug\net6.0\HM 2.genruntimeconfig.cache
+C:\Users\HP\Desktop\Code Academy\coding\coding HomeWorks\HW2\HM 2 solution\HM 2\obj\Debug\net6.0\ref\HM 2.dll
