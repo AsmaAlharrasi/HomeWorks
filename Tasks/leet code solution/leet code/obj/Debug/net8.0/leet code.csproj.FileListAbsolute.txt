@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\Tasks\leet code solution\leet code\bin\Debug\net8.0\leet code.exe
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\Tasks\leet code solution\leet code\bin\Debug\net8.0\leet code.deps.json
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\Tasks\leet code solution\leet code\bin\Debug\net8.0\leet code.runtimeconfig.json
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\Tasks\leet code solution\leet code\bin\Debug\net8.0\leet code.dll
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\Tasks\leet code solution\leet code\bin\Debug\net8.0\leet code.pdb
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\Tasks\leet code solution\leet code\obj\Debug\net8.0\leet code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\Tasks\leet code solution\leet code\obj\Debug\net8.0\leet code.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\Tasks\leet code solution\leet code\obj\Debug\net8.0\leet code.AssemblyInfo.cs
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\Tasks\leet code solution\leet code\obj\Debug\net8.0\leet code.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\Tasks\leet code solution\leet code\obj\Debug\net8.0\leet code.sourcelink.json
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\Tasks\leet code solution\leet code\obj\Debug\net8.0\leet code.dll
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\Tasks\leet code solution\leet code\obj\Debug\net8.0\refint\leet code.dll
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\Tasks\leet code solution\leet code\obj\Debug\net8.0\leet code.pdb
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\Tasks\leet code solution\leet code\obj\Debug\net8.0\leet code.genruntimeconfig.cache
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\Tasks\leet code solution\leet code\obj\Debug\net8.0\ref\leet code.dll
