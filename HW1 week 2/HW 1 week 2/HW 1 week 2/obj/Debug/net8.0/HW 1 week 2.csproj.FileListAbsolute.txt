@@ -1,0 +1,30 @@
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\HW1 week 2\HW 1 week 2\HW 1 week 2\bin\Debug\net8.0\HW 1 week 2.exe
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\HW1 week 2\HW 1 week 2\HW 1 week 2\bin\Debug\net8.0\HW 1 week 2.deps.json
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\HW1 week 2\HW 1 week 2\HW 1 week 2\bin\Debug\net8.0\HW 1 week 2.runtimeconfig.json
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\HW1 week 2\HW 1 week 2\HW 1 week 2\bin\Debug\net8.0\HW 1 week 2.dll
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\HW1 week 2\HW 1 week 2\HW 1 week 2\bin\Debug\net8.0\HW 1 week 2.pdb
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\HW1 week 2\HW 1 week 2\HW 1 week 2\obj\Debug\net8.0\HW 1 week 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\HW1 week 2\HW 1 week 2\HW 1 week 2\obj\Debug\net8.0\HW 1 week 2.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\HW1 week 2\HW 1 week 2\HW 1 week 2\obj\Debug\net8.0\HW 1 week 2.AssemblyInfo.cs
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\HW1 week 2\HW 1 week 2\HW 1 week 2\obj\Debug\net8.0\HW 1 week 2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\HW1 week 2\HW 1 week 2\HW 1 week 2\obj\Debug\net8.0\HW 1 week 2.sourcelink.json
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\HW1 week 2\HW 1 week 2\HW 1 week 2\obj\Debug\net8.0\HW 1 week 2.dll
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\HW1 week 2\HW 1 week 2\HW 1 week 2\obj\Debug\net8.0\refint\HW 1 week 2.dll
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\HW1 week 2\HW 1 week 2\HW 1 week 2\obj\Debug\net8.0\HW 1 week 2.pdb
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\HW1 week 2\HW 1 week 2\HW 1 week 2\obj\Debug\net8.0\HW 1 week 2.genruntimeconfig.cache
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\HW1 week 2\HW 1 week 2\HW 1 week 2\obj\Debug\net8.0\ref\HW 1 week 2.dll
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\Team Project\HW 1 week 2\HW 1 week 2\bin\Debug\net8.0\HW 1 week 2.exe
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\Team Project\HW 1 week 2\HW 1 week 2\bin\Debug\net8.0\HW 1 week 2.deps.json
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\Team Project\HW 1 week 2\HW 1 week 2\bin\Debug\net8.0\HW 1 week 2.runtimeconfig.json
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\Team Project\HW 1 week 2\HW 1 week 2\bin\Debug\net8.0\HW 1 week 2.dll
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\Team Project\HW 1 week 2\HW 1 week 2\bin\Debug\net8.0\HW 1 week 2.pdb
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\Team Project\HW 1 week 2\HW 1 week 2\obj\Debug\net8.0\HW 1 week 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\Team Project\HW 1 week 2\HW 1 week 2\obj\Debug\net8.0\HW 1 week 2.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\Team Project\HW 1 week 2\HW 1 week 2\obj\Debug\net8.0\HW 1 week 2.AssemblyInfo.cs
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\Team Project\HW 1 week 2\HW 1 week 2\obj\Debug\net8.0\HW 1 week 2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\Team Project\HW 1 week 2\HW 1 week 2\obj\Debug\net8.0\HW 1 week 2.sourcelink.json
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\Team Project\HW 1 week 2\HW 1 week 2\obj\Debug\net8.0\HW 1 week 2.dll
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\Team Project\HW 1 week 2\HW 1 week 2\obj\Debug\net8.0\refint\HW 1 week 2.dll
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\Team Project\HW 1 week 2\HW 1 week 2\obj\Debug\net8.0\HW 1 week 2.pdb
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\Team Project\HW 1 week 2\HW 1 week 2\obj\Debug\net8.0\HW 1 week 2.genruntimeconfig.cache
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\Team Project\HW 1 week 2\HW 1 week 2\obj\Debug\net8.0\ref\HW 1 week 2.dll
