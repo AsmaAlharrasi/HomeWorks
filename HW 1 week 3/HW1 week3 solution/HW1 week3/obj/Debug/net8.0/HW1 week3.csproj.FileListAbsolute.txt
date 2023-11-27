@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\HW 1 week 3\HW1 week3 solution\HW1 week3\bin\Debug\net8.0\HW1 week3.exe
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\HW 1 week 3\HW1 week3 solution\HW1 week3\bin\Debug\net8.0\HW1 week3.deps.json
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\HW 1 week 3\HW1 week3 solution\HW1 week3\bin\Debug\net8.0\HW1 week3.runtimeconfig.json
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\HW 1 week 3\HW1 week3 solution\HW1 week3\bin\Debug\net8.0\HW1 week3.dll
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\HW 1 week 3\HW1 week3 solution\HW1 week3\bin\Debug\net8.0\HW1 week3.pdb
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\HW 1 week 3\HW1 week3 solution\HW1 week3\obj\Debug\net8.0\HW1 week3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\HW 1 week 3\HW1 week3 solution\HW1 week3\obj\Debug\net8.0\HW1 week3.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\HW 1 week 3\HW1 week3 solution\HW1 week3\obj\Debug\net8.0\HW1 week3.AssemblyInfo.cs
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\HW 1 week 3\HW1 week3 solution\HW1 week3\obj\Debug\net8.0\HW1 week3.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\HW 1 week 3\HW1 week3 solution\HW1 week3\obj\Debug\net8.0\HW1 week3.sourcelink.json
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\HW 1 week 3\HW1 week3 solution\HW1 week3\obj\Debug\net8.0\HW1 week3.dll
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\HW 1 week 3\HW1 week3 solution\HW1 week3\obj\Debug\net8.0\refint\HW1 week3.dll
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\HW 1 week 3\HW1 week3 solution\HW1 week3\obj\Debug\net8.0\HW1 week3.pdb
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\HW 1 week 3\HW1 week3 solution\HW1 week3\obj\Debug\net8.0\HW1 week3.genruntimeconfig.cache
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\HW 1 week 3\HW1 week3 solution\HW1 week3\obj\Debug\net8.0\ref\HW1 week3.dll
