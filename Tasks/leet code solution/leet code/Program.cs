@@ -2,6 +2,7 @@
 {
     class Program
     {
+        #region gussesnumber
         static int gussesnumber ( int n)
         {
             int i = 1;
@@ -23,8 +24,41 @@
             return -1;
 
         }
+        #endregion
+
+        #region TitleToNumber
+        public int TitleToNumber(string columnTitle)
+        {
+            int result = 0;
+            foreach (char x in columnTitle)
+            {
+                int y = x - 'A' + 1;
+                result = result * 26 + y;
+            }
+            return result;
+        }
+        #endregion
+
+        #region ConvertToTitle
+        public string ConvertToTitle(int columnNumber)
+        {
+            string result = "";
+
+            while (columnNumber > 0)
+            {
+                int remainder = (columnNumber - 1) % 26;
+                char charValue = (char)('A' + remainder);
+                result = charValue + result;
+
+                columnNumber = (columnNumber - 1) / 26;
+            }
+
+            return result;
+        }
+        #endregion
         static void Main()
         {
+            #region reverse a string
             reverse a string 1
             string s = "hello";
             char[] stringArray = s.ToCharArray();
@@ -47,9 +81,10 @@
 
             }
 
+            #endregion
 
         }
-        
+
     }
 
 
