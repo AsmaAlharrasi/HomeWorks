@@ -2,24 +2,55 @@
 {
     class Program
     {
+        static int gussesnumber ( int n)
+        {
+            int i = 1;
+            int j = n;
+            int num = i + (i - j) / 2;
+            while (i <= j)
+            //for (i = 1; i <= j; i++)
+            {
+                if (guess(num) == -1)
+                {
+                    j = num - 1;
+                }
+                else if (guess(num) == 1)
+                {
+                    i = num + 1;
+                }
+                else return num;
+            }
+            return -1;
+
+        }
         static void Main()
         {
-            // Example Usage:
-            int n = 16;
-            bool result = IsPowerOfTwo(n);
+            reverse a string 1
+            string s = "hello";
+            char[] stringArray = s.ToCharArray();
+            Array.Reverse(stringArray);
+            string reverseString = new string(stringArray);
+            Console.WriteLine(reverseString);
 
-            Console.WriteLine($"{n} is a power of two: {result}");
-        }
+            // reverse a string 2
+            char[] s = { 'h', 'e', 'l', 'l', 'o' };
+            Array.Reverse(s);
+            string reverseString = new string(s);
+            Console.WriteLine(reverseString);
 
-        static bool IsPowerOfTwo(int n)
-        {
-            if (n <= 0)
+            //intersaction of tow array
+            int[] num1 = { 1, 2, 2, 1 }; int[] num2 = { 2, 2 };
+            var intersection = num1.Intersect(num2);
+            foreach (int result in intersection)
             {
-                return false;
+                Console.WriteLine($" [{result}]");
+
             }
 
-            // Check if only one bit is set in the binary representation
-            return (n & (n - 1)) == 0;
+
         }
+        
     }
+
+
 }
