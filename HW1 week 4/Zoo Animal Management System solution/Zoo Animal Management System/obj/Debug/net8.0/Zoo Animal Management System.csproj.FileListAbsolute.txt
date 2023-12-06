@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\HW1 week 4\Zoo Animal Management System solution\Zoo Animal Management System\bin\Debug\net8.0\Zoo Animal Management System.exe
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\HW1 week 4\Zoo Animal Management System solution\Zoo Animal Management System\bin\Debug\net8.0\Zoo Animal Management System.deps.json
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\HW1 week 4\Zoo Animal Management System solution\Zoo Animal Management System\bin\Debug\net8.0\Zoo Animal Management System.runtimeconfig.json
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\HW1 week 4\Zoo Animal Management System solution\Zoo Animal Management System\bin\Debug\net8.0\Zoo Animal Management System.dll
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\HW1 week 4\Zoo Animal Management System solution\Zoo Animal Management System\bin\Debug\net8.0\Zoo Animal Management System.pdb
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\HW1 week 4\Zoo Animal Management System solution\Zoo Animal Management System\obj\Debug\net8.0\Zoo Animal Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\HW1 week 4\Zoo Animal Management System solution\Zoo Animal Management System\obj\Debug\net8.0\Zoo Animal Management System.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\HW1 week 4\Zoo Animal Management System solution\Zoo Animal Management System\obj\Debug\net8.0\Zoo Animal Management System.AssemblyInfo.cs
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\HW1 week 4\Zoo Animal Management System solution\Zoo Animal Management System\obj\Debug\net8.0\Zoo Animal Management System.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\HW1 week 4\Zoo Animal Management System solution\Zoo Animal Management System\obj\Debug\net8.0\Zoo Animal Management System.sourcelink.json
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\HW1 week 4\Zoo Animal Management System solution\Zoo Animal Management System\obj\Debug\net8.0\Zoo Animal Management System.dll
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\HW1 week 4\Zoo Animal Management System solution\Zoo Animal Management System\obj\Debug\net8.0\refint\Zoo Animal Management System.dll
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\HW1 week 4\Zoo Animal Management System solution\Zoo Animal Management System\obj\Debug\net8.0\Zoo Animal Management System.pdb
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\HW1 week 4\Zoo Animal Management System solution\Zoo Animal Management System\obj\Debug\net8.0\Zoo Animal Management System.genruntimeconfig.cache
+C:\Users\HP\Desktop\Code Academy\coding\Problem Solving\HW1 week 4\Zoo Animal Management System solution\Zoo Animal Management System\obj\Debug\net8.0\ref\Zoo Animal Management System.dll

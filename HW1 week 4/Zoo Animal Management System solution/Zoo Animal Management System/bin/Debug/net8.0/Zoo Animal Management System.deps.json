@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Zoo Animal Management System/1.0.0": {
+        "runtime": {
+          "Zoo Animal Management System.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zoo Animal Management System/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
